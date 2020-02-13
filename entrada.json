@@ -1,0 +1,8 @@
+{
+  "apikey": "ibm-apikey",
+  "generation": "1 or 2",
+  "action": "reboot,start,stop,reset",
+  "region": "",
+  "instance_id": ""
+
+}
